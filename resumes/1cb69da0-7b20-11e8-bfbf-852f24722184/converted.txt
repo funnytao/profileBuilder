@@ -1,0 +1,71 @@
+ 
+
+TAO 
+LIU 
+
+  SKILLS 
+
+4 Stone Ln, Malden MA 02148 
+(857) 400-4172 
+tao.liu.404@ibm.com 
+tinyurl.com/taoliu404linkedin 
+funnytoto.com 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Languages | JavaScript, HTML, CSS, Java, SQL 
+Technologies | Bootstrap, Angular, React, Sass, Webpack, Gulp, Node, Elasticsearch 
+
+ 
+
+  EDUCATION 
+
+Boston University | Sep.2014 – Jan.2016 
+MASTER OF SCIENCE IN COMPUTER ENGINEERING  
+
+Tianjin University | Sep.2010 – Jul.2014 
+BACHELOR OF ENGINEERING IN MEASURING AND CONTROL TECHNOLOGY AND 
+INSTRUMENT 
+
+  EXPERIENCE 
+
+Software Developer | IBM 
+JUL.2017 – PRESENT 
+Used Elasticsearch stack to store and monitor logs from various teams 
+
+Applied Logstash filters to different log patterns 
+
+Visualized log data with Kibana to monitor health of data 
+
+Developed APIs to extract useful information from different log patterns 
+
+Front End Developer | IBM 
+APR.2017 – JUL.2017 
+Built and Maintained the internal dashboard for Watson for Genomics 
+
+Converted templates from UX team to precise layouts 
+
+Developed new features to handle complex cases review process 
+
+Software Engineer Intern | SunusHealth LLC 
+MAR.2016 – APR.2017 
+Designed and built the prototype of IntelliMonitor, a smart device to monitor drop rate during 
+infusion with Raspberry Pi 
+
+Built responsive web pages for product and service:  
+
+http://sunushealth.com/intellimonitor/  
+
+http://sunushealth.com/MedicalCare 
+
+ 
+
+ 
+
+

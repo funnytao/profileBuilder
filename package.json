@@ -1,0 +1,27 @@
+{
+  "name": "podan",
+  "version": "1.0.0",
+  "description": "apis to receive resume from browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.1.7",
+    "nodemon": "^1.17.5",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "path": "^0.12.7",
+    "resume-parser": "^1.1.0",
+    "uuid": "^3.3.0",
+    "validator": "^10.4.0"
+  }
+}
